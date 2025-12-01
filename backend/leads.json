@@ -1,0 +1,16 @@
+[
+  {
+    "timestamp": "2025-11-26T18:57:25.096755",
+    "date": "2025-11-26",
+    "time": "18:57:25",
+    "name": "Michael Scott",
+    "email": "test.spartangroupsofhotels@gmail.com",
+    "company": "Spartan Group of Hotels",
+    "role": "Unknown",
+    "use_case": "Growing in-house restaurants",
+    "team_size": "Unknown",
+    "timeline": "Gathering information",
+    "notes": "Interested in Zomato for both dine-in discovery/reservations and food delivery. Also asked about Hyperpure. Compared Zomato to Swiggy.",
+    "source": "Voice SDR Agent"
+  }
+]

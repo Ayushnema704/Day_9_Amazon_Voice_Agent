@@ -1,0 +1,98 @@
+{
+  "company_info": {
+    "name": "Zomato",
+    "tagline": "Better food for more people",
+    "description": "Zomato is India's leading food delivery and restaurant discovery platform. We connect customers with restaurants, delivery partners, and dining experiences across 1000+ cities in India.",
+    "founded": "2008",
+    "headquarters": "Gurugram, India",
+    "services": [
+      "Food Delivery",
+      "Restaurant Discovery & Reviews",
+      "Zomato Gold (Dining membership)",
+      "Hyperpure (B2B supplies for restaurants)",
+      "Blinkit (Quick commerce)",
+      "Table Reservations"
+    ]
+  },
+  "faq": [
+    {
+      "question": "What does Zomato do?",
+      "answer": "Zomato is a comprehensive food platform. We help customers discover restaurants, order food for delivery, make table reservations, and read reviews. We also support restaurants with technology, supplies through Hyperpure, and delivery infrastructure. Additionally, we own Blinkit for quick commerce grocery delivery."
+    },
+    {
+      "question": "Which cities does Zomato operate in?",
+      "answer": "Zomato operates in over 1000 cities across India, covering metros like Mumbai, Delhi, Bangalore, Hyderabad, Chennai, Kolkata, and extending to tier 2 and tier 3 cities. We're continuously expanding our reach."
+    },
+    {
+      "question": "What is Zomato Gold?",
+      "answer": "Zomato Gold is our premium dining membership that offers exclusive deals and discounts at partner restaurants. Members get complimentary dishes, drinks, or percentage discounts when dining out. It's perfect for food lovers who dine out frequently."
+    },
+    {
+      "question": "How does Zomato's delivery work?",
+      "answer": "Customers order through our app, restaurants prepare the food, and our delivery partners pick up and deliver to your doorstep. We use smart algorithms to match orders with nearby delivery partners for faster delivery times, typically 30-40 minutes."
+    },
+    {
+      "question": "What is Hyperpure?",
+      "answer": "Hyperpure is Zomato's B2B supply business that provides high-quality ingredients and supplies directly to restaurants. We ensure quality, freshness, and timely delivery, helping restaurants maintain consistency and reduce procurement hassles."
+    },
+    {
+      "question": "Do you offer restaurant technology solutions?",
+      "answer": "Yes! We provide restaurants with POS systems, online ordering infrastructure, digital menus, analytics dashboards, and marketing tools. Our technology helps restaurants manage operations efficiently and grow their business both online and offline."
+    },
+    {
+      "question": "What are Zomato's pricing plans?",
+      "answer": "For consumers: Food delivery has variable delivery fees based on distance and demand. Zomato Gold membership costs around ₹1200-1500 per year. For restaurants: We offer multiple partnership plans including commission-based models (typically 15-25% per order) and subscription-based technology packages. Contact our sales team for custom enterprise pricing."
+    },
+    {
+      "question": "Is there a free tier or trial available?",
+      "answer": "For consumers, the Zomato app is free to use. You only pay for food and delivery. We often run promotional offers for first-time Gold members. For restaurant partners, we offer free onboarding consultations and sometimes waive setup fees during promotional periods."
+    },
+    {
+      "question": "Who is Zomato for?",
+      "answer": "Zomato serves multiple audiences: Hungry customers who want food delivered or to discover restaurants, restaurant owners who want to grow their business, delivery partners looking to earn flexible income, and food enthusiasts who love exploring new dining experiences. Essentially, anyone involved in the food ecosystem."
+    },
+    {
+      "question": "What makes Zomato different from competitors?",
+      "answer": "Our comprehensive ecosystem sets us apart. We're not just a delivery app - we provide restaurant discovery, reviews, dining memberships, B2B supplies, quick commerce through Blinkit, and a full suite of restaurant technology. Our deep integration across the food value chain creates unique value for all stakeholders."
+    },
+    {
+      "question": "How can restaurants partner with Zomato?",
+      "answer": "Restaurants can sign up through our website or app, or contact our restaurant partner team. We provide onboarding support, menu digitization, photography services, and training. There's no upfront cost in most cases - we work on a commission basis or subscription model depending on your needs."
+    },
+    {
+      "question": "What kind of support do you provide?",
+      "answer": "We offer 24/7 customer support for consumers via app chat and phone. For restaurant partners, we provide dedicated account managers, technical support, business consultations, and marketing guidance. Hyperpure clients get supply chain support and quality assurance teams."
+    },
+    {
+      "question": "Do you have analytics and insights?",
+      "answer": "Yes! Restaurant partners get detailed analytics on orders, customer behavior, popular items, peak hours, ratings, and reviews. We provide actionable insights to help optimize menus, pricing, and operations. Our dashboards track real-time performance metrics."
+    },
+    {
+      "question": "What's your delivery time and coverage?",
+      "answer": "Average delivery time is 30-40 minutes, though this varies by location and restaurant. We cover most urban and suburban areas in our operating cities. You can check serviceability by entering your address in the app."
+    },
+    {
+      "question": "Can Zomato integrate with existing restaurant systems?",
+      "answer": "Absolutely! Our APIs integrate with most major POS systems, inventory management tools, and accounting software. We support seamless data flow to minimize manual work and reduce errors. Our tech team assists with integration."
+    }
+  ],
+  "pricing": {
+    "consumer": {
+      "delivery": "Free app, variable delivery fees (₹20-50 typically)",
+      "gold_membership": "₹1200-1500/year for dining discounts"
+    },
+    "restaurant_partners": {
+      "commission": "15-25% per delivery order",
+      "subscription": "Custom pricing based on features and city",
+      "hyperpure": "Competitive wholesale pricing with volume discounts"
+    }
+  },
+  "target_audience": [
+    "Hungry consumers ordering food delivery",
+    "Food enthusiasts discovering restaurants",
+    "Restaurant owners wanting to grow revenue",
+    "Cloud kitchens and delivery-only brands",
+    "Restaurant chains needing technology solutions",
+    "Cafe and QSR franchises"
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "game_info": {
+    "name": "God of War",
+    "tagline": "The journey of a father and son",
+    "description": "God of War is an action-adventure game that follows Kratos, the former Greek God of War, and his son Atreus on an epic journey through Norse mythology. Experience brutal combat, stunning visuals, and a deeply emotional story.",
+    "developer": "Santa Monica Studio",
+    "publisher": "Sony Interactive Entertainment",
+    "release_date": "2018-04-20",
+    "platforms": [
+      "PlayStation 4",
+      "PlayStation 5",
+      "PC (Steam)"
+    ],
+    "genres": [
+      "Action-Adventure",
+      "Hack and Slash",
+      "Norse Mythology"
+    ]
+  },
+  "faq": [
+    {
+      "question": "What is God of War about?",
+      "answer": "God of War follows Kratos and his son Atreus on a quest to scatter the ashes of Kratos' deceased wife from the highest peak in all the realms. Set in the world of Norse mythology, it's a story about fatherhood, redemption, and the struggle to break the cycle of violence. Kratos must teach his son to survive while keeping his violent past hidden."
+    },
+    {
+      "question": "What platforms is God of War available on?",
+      "answer": "God of War (2018) is available on PlayStation 4, PlayStation 5, and PC via Steam. The PC version was released in January 2022, featuring enhanced graphics, unlocked framerates, and ultra-wide monitor support. God of War Ragnarök is available on PS4 and PS5."
+    },
+    {
+      "question": "What are the main gameplay features?",
+      "answer": "The game features brutal melee combat with the Leviathan Axe and Blades of Chaos, challenging boss battles against Norse gods and creatures, puzzle-solving, exploration of vast realms, RPG elements with gear upgrades and skill trees, and companion combat with Atreus. The combat is visceral and strategic, requiring mastery of timing, positioning, and weapon combinations."
+    },
+    {
+      "question": "Do I need to play previous God of War games?",
+      "answer": "No, you don't need to play the previous games to enjoy God of War (2018). While it's a continuation of Kratos' story, the game is designed as a soft reboot that welcomes newcomers. The Norse setting and focus on the father-son relationship make it accessible, though veterans will appreciate deeper story connections and references."
+    },
+    {
+      "question": "What is the Leviathan Axe?",
+      "answer": "The Leviathan Axe is Kratos' primary weapon, forged by the dwarven blacksmiths Brok and Sindri. It's imbued with frost magic and can be thrown and recalled at will, similar to Thor's hammer. The axe can freeze enemies, solve environmental puzzles, and be upgraded with runes for special abilities. It's perfectly balanced for both combat and exploration."
+    },
+    {
+      "question": "Who is Atreus and what role does he play?",
+      "answer": "Atreus is Kratos' son and your companion throughout the journey. He's not just a passive follower - he actively assists in combat with his bow and arrows, can summon spectral animals, reads ancient languages to solve puzzles, and is central to the story. His relationship with Kratos and discovery of his true heritage drives the narrative forward."
+    },
+    {
+      "question": "How long does it take to complete God of War?",
+      "answer": "The main story takes approximately 20-25 hours to complete. If you want to explore all the realms, complete side quests, defeat optional bosses like the Valkyries, and collect all gear, expect 40-50 hours of gameplay. Completionists aiming for 100% and platinum trophy will spend 50-60 hours."
+    },
+    {
+      "question": "What are the Valkyries?",
+      "answer": "The Valkyries are optional super bosses scattered across the nine realms. These fierce female warriors serve as the game's ultimate challenge, each with unique attack patterns and devastating moves. Defeating all eight Valkyries unlocks the final encounter with Sigrun, the Valkyrie Queen, considered one of gaming's toughest boss fights. They require mastery of combat mechanics and are only for the bravest warriors."
+    },
+    {
+      "question": "What difficulty settings are available?",
+      "answer": "God of War offers multiple difficulty settings: Give Me a Story (easy, story-focused), Give Me a Balanced Experience (normal, recommended for most players), Give Me a Challenge (hard, for veteran players), and Give Me God of War (permadeath mode, extremely punishing). You can change difficulty anytime except for Give Me God of War, which locks you in."
+    },
+    {
+      "question": "Is there a photo mode?",
+      "answer": "Yes! God of War features an extensive photo mode that lets you capture stunning moments. You can adjust camera angles, depth of field, filters, character poses, and freeze action mid-combat. The game's breathtaking visuals combined with the photo mode make it perfect for capturing epic screenshots and sharing your journey."
+    },
+    {
+      "question": "What is New Game Plus?",
+      "answer": "New Game Plus allows you to restart the story while keeping your upgraded gear, skills, and resources. It unlocks new armor sets, enchantments, and upgrades not available in the first playthrough. Enemies are tougher, but you start as a powerful warrior. It's perfect for experiencing the story again while pursuing harder challenges and collecting exclusive items."
+    },
+    {
+      "question": "What are the system requirements for PC?",
+      "answer": "For PC, minimum requirements include an Intel i5-2500K or AMD Ryzen 3 1200, GTX 960 or RX 470 GPU, 8GB RAM, and 70GB storage. Recommended specs are Intel i5-6600K or AMD Ryzen 5 2400G, GTX 1060 or RX 570 GPU, and 8GB RAM. For best experience with ray tracing and 4K, you'll want a high-end GPU like RTX 3070 or better."
+    },
+    {
+      "question": "What awards has God of War won?",
+      "answer": "God of War (2018) won over 200 Game of the Year awards, including from The Game Awards, D.I.C.E. Awards, and BAFTA. It won awards for Best Game Direction, Best Narrative, Best Art Direction, and Best Audio Design. It's one of the most critically acclaimed games ever, with a 94 Metacritic score."
+    },
+    {
+      "question": "Is God of War Ragnarök a sequel?",
+      "answer": "Yes, God of War Ragnarök is the direct sequel to God of War (2018). It continues Kratos and Atreus' journey three years later as Fimbulwinter ravages the realms and Ragnarök, the end of days, approaches. You'll face Thor, Odin, and other Norse gods while exploring new realms and uncovering deeper mythological secrets."
+    },
+    {
+      "question": "Can I play God of War with a controller on PC?",
+      "answer": "Absolutely! God of War on PC has full controller support, including PlayStation DualSense and DualShock 4 controllers with haptic feedback and adaptive trigger support. Xbox controllers also work perfectly. Many players prefer controllers for the combat feel, though keyboard and mouse controls are fully customizable and well-implemented."
+    }
+  ],
+  "gameplay_tips": {
+    "combat": [
+      "Master the parry timing - it's key to survival on higher difficulties",
+      "Upgrade your skills early - focus on abilities you use most",
+      "Use Atreus strategically - his arrows can stun and interrupt enemies",
+      "Learn enemy patterns - different creatures have unique weaknesses",
+      "Don't forget runic attacks - they deal massive damage when fully upgraded"
+    ],
+    "exploration": [
+      "Return to areas after story progression for new paths and secrets",
+      "Use the axe to freeze waterwheels and solve environmental puzzles",
+      "Explore every corner - hidden chambers contain powerful gear",
+      "Talk to Brok and Sindri often for upgrades and side quests",
+      "Collect everything - resources are needed for top-tier equipment"
+    ],
+    "progression": [
+      "Balance offense and defense stats on your gear",
+      "Complete Favors (side quests) for unique rewards",
+      "Don't rush through realms - take time to explore thoroughly",
+      "Save Valkyries for endgame when you're fully upgraded",
+      "Experiment with different armor sets for varied playstyles"
+    ]
+  },
+  "characters": [
+    "Kratos - The Ghost of Sparta, former Greek God of War",
+    "Atreus - Kratos' son, half-god with hidden potential",
+    "Mimir - The smartest man alive, advisor trapped in a head",
+    "Brok and Sindri - Dwarven blacksmiths, master craftsmen",
+    "Freya - Goddess of love, powerful ally and enemy",
+    "Baldur - Invulnerable god seeking to break his curse",
+    "Thor - God of thunder, Odin's enforcer (Ragnarök)",
+    "Odin - All-Father, ruler of Asgard (Ragnarök)"
+  ]
+}

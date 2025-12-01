@@ -1,0 +1,446 @@
+{
+  "store_info": {
+    "name": "Amazon Voice Shopping",
+    "description": "Your one-stop shop for everything - from electronics to books, fashion to home goods. Experience seamless voice shopping with Amazon's vast product catalog.",
+    "currency": "INR",
+    "categories": ["Electronics", "Books", "Fashion", "Home & Kitchen", "Sports & Outdoors"]
+  },
+  "products": [
+    {
+      "id": "AMZN-ELEC-001",
+      "name": "Sony WH-1000XM5 Wireless Headphones",
+      "description": "Industry-leading noise canceling with premium sound quality. 30-hour battery life with quick charging.",
+      "price": 29990,
+      "currency": "INR",
+      "category": "Electronics",
+      "subcategory": "Audio",
+      "brand": "Sony",
+      "color": "Black",
+      "in_stock": true,
+      "rating": 4.7,
+      "attributes": {
+        "wireless": true,
+        "noise_cancelling": true,
+        "battery_life": "30 hours"
+      }
+    },
+    {
+      "id": "AMZN-ELEC-002",
+      "name": "Apple AirPods Pro (2nd Gen)",
+      "description": "Active Noise Cancellation, Adaptive Audio, and Personalized Spatial Audio with dynamic head tracking.",
+      "price": 24900,
+      "currency": "INR",
+      "category": "Electronics",
+      "subcategory": "Audio",
+      "brand": "Apple",
+      "color": "White",
+      "in_stock": true,
+      "rating": 4.8,
+      "attributes": {
+        "wireless": true,
+        "noise_cancelling": true,
+        "water_resistant": true
+      }
+    },
+    {
+      "id": "AMZN-ELEC-002B",
+      "name": "Apple iPhone 17 Pro Max",
+      "description": "6.7-inch Super Retina XDR display. A17 Pro chip. Pro camera system. Titanium design. Action button.",
+      "price": 159900,
+      "currency": "INR",
+      "category": "Electronics",
+      "subcategory": "Smartphones",
+      "brand": "Apple",
+      "color": "Natural Titanium",
+      "in_stock": true,
+      "rating": 4.9,
+      "attributes": {
+        "storage": "256GB",
+        "5g": true,
+        "camera": "48MP"
+      }
+    },
+    {
+      "id": "AMZN-ELEC-002C",
+      "name": "Samsung Galaxy S25 Ultra",
+      "description": "6.8-inch Dynamic AMOLED display. Snapdragon 8 Gen 3. 200MP camera. S Pen included.",
+      "price": 129999,
+      "currency": "INR",
+      "category": "Electronics",
+      "subcategory": "Smartphones",
+      "brand": "Samsung",
+      "color": "Titanium Gray",
+      "in_stock": true,
+      "rating": 4.8,
+      "attributes": {
+        "storage": "256GB",
+        "5g": true,
+        "camera": "200MP"
+      }
+    },
+    {
+      "id": "AMZN-ELEC-002D",
+      "name": "OnePlus Buds Pro 2",
+      "description": "Adaptive noise cancellation up to 48dB. Spatial audio. 39-hour total battery life with case.",
+      "price": 9999,
+      "currency": "INR",
+      "category": "Electronics",
+      "subcategory": "Audio",
+      "brand": "OnePlus",
+      "color": "Obsidian Black",
+      "in_stock": true,
+      "rating": 4.6,
+      "attributes": {
+        "wireless": true,
+        "noise_cancelling": true,
+        "battery_life": "39 hours"
+      }
+    },
+    {
+      "id": "AMZN-ELEC-002E",
+      "name": "boAt Airdopes 141",
+      "description": "Truly wireless earbuds with 42H playtime. Quad mics with ENx technology. ASAP Charge.",
+      "price": 1299,
+      "currency": "INR",
+      "category": "Electronics",
+      "subcategory": "Audio",
+      "brand": "boAt",
+      "color": "Bold Black",
+      "in_stock": true,
+      "rating": 4.3,
+      "attributes": {
+        "wireless": true,
+        "battery_life": "42 hours",
+        "water_resistant": true
+      }
+    },
+    {
+      "id": "AMZN-ELEC-003",
+      "name": "Samsung Galaxy Watch 6",
+      "description": "Advanced health tracking with heart rate monitor, sleep tracking, and GPS. Compatible with Android and iOS.",
+      "price": 24999,
+      "currency": "INR",
+      "category": "Electronics",
+      "subcategory": "Wearables",
+      "brand": "Samsung",
+      "color": "Graphite",
+      "in_stock": true,
+      "rating": 4.5,
+      "attributes": {
+        "screen_size": "44mm",
+        "water_resistant": true,
+        "gps": true
+      }
+    },
+    {
+      "id": "AMZN-ELEC-004",
+      "name": "Logitech MX Master 3S Wireless Mouse",
+      "description": "Ergonomic wireless mouse with ultra-precise scrolling and app-specific customizations.",
+      "price": 8995,
+      "currency": "INR",
+      "category": "Electronics",
+      "subcategory": "Computer Accessories",
+      "brand": "Logitech",
+      "color": "Black",
+      "in_stock": true,
+      "rating": 4.6,
+      "attributes": {
+        "wireless": true,
+        "ergonomic": true,
+        "battery_life": "70 days"
+      }
+    },
+    {
+      "id": "AMZN-ELEC-005",
+      "name": "Amazon Echo Dot (5th Gen)",
+      "description": "Smart speaker with Alexa, improved bass, and smart home control.",
+      "price": 4999,
+      "currency": "INR",
+      "category": "Electronics",
+      "subcategory": "Smart Home",
+      "brand": "Amazon",
+      "color": "Charcoal",
+      "in_stock": true,
+      "rating": 4.7,
+      "attributes": {
+        "voice_assistant": "Alexa",
+        "smart_home": true,
+        "bluetooth": true
+      }
+    },
+    {
+      "id": "AMZN-BOOK-001",
+      "name": "Atomic Habits by James Clear",
+      "description": "An Easy & Proven Way to Build Good Habits & Break Bad Ones. #1 New York Times Bestseller.",
+      "price": 599,
+      "currency": "INR",
+      "category": "Books",
+      "subcategory": "Self-Help",
+      "brand": "Penguin Random House",
+      "author": "James Clear",
+      "format": "Paperback",
+      "in_stock": true,
+      "rating": 4.8,
+      "attributes": {
+        "pages": 320,
+        "language": "English",
+        "bestseller": true
+      }
+    },
+    {
+      "id": "AMZN-BOOK-002",
+      "name": "The Psychology of Money by Morgan Housel",
+      "description": "Timeless lessons on wealth, greed, and happiness. International bestseller.",
+      "price": 349,
+      "currency": "INR",
+      "category": "Books",
+      "subcategory": "Finance",
+      "brand": "Jaico Publishing House",
+      "author": "Morgan Housel",
+      "format": "Paperback",
+      "in_stock": true,
+      "rating": 4.7,
+      "attributes": {
+        "pages": 252,
+        "language": "English",
+        "bestseller": true
+      }
+    },
+    {
+      "id": "AMZN-BOOK-003",
+      "name": "Project Hail Mary by Andy Weir",
+      "description": "A lone astronaut must save Earth from disaster in this gripping sci-fi thriller from the author of The Martian.",
+      "price": 499,
+      "currency": "INR",
+      "category": "Books",
+      "subcategory": "Science Fiction",
+      "brand": "Penguin Random House",
+      "author": "Andy Weir",
+      "format": "Paperback",
+      "in_stock": true,
+      "rating": 4.9,
+      "attributes": {
+        "pages": 476,
+        "language": "English",
+        "award_winner": true
+      }
+    },
+    {
+      "id": "AMZN-FASH-001",
+      "name": "Levi's 511 Slim Fit Jeans",
+      "description": "Classic slim fit jeans with stretch comfort. A modern take on the original 5-pocket design.",
+      "price": 2999,
+      "currency": "INR",
+      "category": "Fashion",
+      "subcategory": "Men's Clothing",
+      "brand": "Levi's",
+      "color": "Dark Blue",
+      "in_stock": true,
+      "rating": 4.5,
+      "attributes": {
+        "sizes": ["30", "32", "34", "36", "38"],
+        "material": "Cotton Blend",
+        "fit": "Slim"
+      }
+    },
+    {
+      "id": "AMZN-FASH-002",
+      "name": "Nike Air Max 270 React",
+      "description": "Comfortable lifestyle sneakers with React foam cushioning and iconic Air Max design.",
+      "price": 8995,
+      "currency": "INR",
+      "category": "Fashion",
+      "subcategory": "Footwear",
+      "brand": "Nike",
+      "color": "Black/White",
+      "in_stock": true,
+      "rating": 4.6,
+      "attributes": {
+        "sizes": ["7", "8", "9", "10", "11"],
+        "material": "Mesh/Synthetic",
+        "cushioning": "React Foam"
+      }
+    },
+    {
+      "id": "AMZN-FASH-003",
+      "name": "Adidas Originals Trefoil Hoodie",
+      "description": "Classic pullover hoodie with iconic Trefoil logo. Soft fleece construction for all-day comfort.",
+      "price": 3499,
+      "currency": "INR",
+      "category": "Fashion",
+      "subcategory": "Men's Clothing",
+      "brand": "Adidas",
+      "color": "Black",
+      "in_stock": true,
+      "rating": 4.7,
+      "attributes": {
+        "sizes": ["S", "M", "L", "XL", "XXL"],
+        "material": "Cotton/Polyester",
+        "style": "Hoodie"
+      }
+    },
+    {
+      "id": "AMZN-HOME-001",
+      "name": "Prestige Iris Plus 750W Mixer Grinder",
+      "description": "3 stainless steel jars with powerful 750W motor. Perfect for Indian cooking.",
+      "price": 3599,
+      "currency": "INR",
+      "category": "Home & Kitchen",
+      "subcategory": "Kitchen Appliances",
+      "brand": "Prestige",
+      "color": "White/Purple",
+      "in_stock": true,
+      "rating": 4.4,
+      "attributes": {
+        "power": "750W",
+        "jars": 3,
+        "warranty": "2 years"
+      }
+    },
+    {
+      "id": "AMZN-HOME-002",
+      "name": "Milton Thermosteel Flask 1 Litre",
+      "description": "Hot & Cold 24 hours insulated vacuum flask. Rust-proof and leak-proof design.",
+      "price": 849,
+      "currency": "INR",
+      "category": "Home & Kitchen",
+      "subcategory": "Drinkware",
+      "brand": "Milton",
+      "color": "Silver",
+      "in_stock": true,
+      "rating": 4.6,
+      "attributes": {
+        "capacity": "1 Litre",
+        "insulation": "24 hours",
+        "material": "Stainless Steel"
+      }
+    },
+    {
+      "id": "AMZN-HOME-003",
+      "name": "Wipro Garnet LED Smart Bulb",
+      "description": "16 million colors, voice control compatible with Alexa and Google Assistant.",
+      "price": 799,
+      "currency": "INR",
+      "category": "Home & Kitchen",
+      "subcategory": "Smart Home",
+      "brand": "Wipro",
+      "color": "White",
+      "in_stock": true,
+      "rating": 4.3,
+      "attributes": {
+        "wattage": "9W",
+        "smart_control": true,
+        "voice_assistant": "Alexa, Google Assistant"
+      }
+    },
+    {
+      "id": "AMZN-SPORT-001",
+      "name": "Nivia Storm Football Size 5",
+      "description": "Professional quality football with excellent durability. FIFA Basic approved.",
+      "price": 899,
+      "currency": "INR",
+      "category": "Sports & Outdoors",
+      "subcategory": "Sports Equipment",
+      "brand": "Nivia",
+      "color": "White/Red",
+      "in_stock": true,
+      "rating": 4.4,
+      "attributes": {
+        "size": "5",
+        "material": "Synthetic Leather",
+        "approved": "FIFA Basic"
+      }
+    },
+    {
+      "id": "AMZN-SPORT-002",
+      "name": "Boldfit Gym Shaker Bottle 700ml",
+      "description": "Leak-proof protein shaker with mixing ball. BPA free plastic.",
+      "price": 299,
+      "currency": "INR",
+      "category": "Sports & Outdoors",
+      "subcategory": "Fitness Accessories",
+      "brand": "Boldfit",
+      "color": "Black",
+      "in_stock": true,
+      "rating": 4.5,
+      "attributes": {
+        "capacity": "700ml",
+        "leak_proof": true,
+        "bpa_free": true
+      }
+    },
+    {
+      "id": "AMZN-ELEC-006",
+      "name": "TP-Link Tapo C200 Smart Camera",
+      "description": "1080p Full HD home security camera with night vision and two-way audio.",
+      "price": 2399,
+      "currency": "INR",
+      "category": "Electronics",
+      "subcategory": "Smart Home",
+      "brand": "TP-Link",
+      "color": "White",
+      "in_stock": true,
+      "rating": 4.5,
+      "attributes": {
+        "resolution": "1080p",
+        "night_vision": true,
+        "two_way_audio": true
+      }
+    },
+    {
+      "id": "AMZN-FASH-004",
+      "name": "Fossil Gen 6 Leather Watch Strap",
+      "description": "Premium genuine leather replacement strap. 22mm width, fits most smartwatches.",
+      "price": 1499,
+      "currency": "INR",
+      "category": "Fashion",
+      "subcategory": "Accessories",
+      "brand": "Fossil",
+      "color": "Brown",
+      "in_stock": true,
+      "rating": 4.6,
+      "attributes": {
+        "material": "Genuine Leather",
+        "width": "22mm",
+        "buckle": "Stainless Steel"
+      }
+    },
+    {
+      "id": "AMZN-HOME-004",
+      "name": "AmazonBasics Microfiber Bedsheet Set",
+      "description": "Queen size bedsheet with 2 pillow covers. Ultra-soft microfiber fabric.",
+      "price": 1299,
+      "currency": "INR",
+      "category": "Home & Kitchen",
+      "subcategory": "Bedding",
+      "brand": "AmazonBasics",
+      "color": "Navy Blue",
+      "in_stock": true,
+      "rating": 4.3,
+      "attributes": {
+        "size": "Queen",
+        "pieces": 3,
+        "material": "Microfiber"
+      }
+    },
+    {
+      "id": "AMZN-BOOK-004",
+      "name": "Ikigai: The Japanese Secret to a Long and Happy Life",
+      "description": "Discover your reason for being and live a meaningful life. International bestseller.",
+      "price": 299,
+      "currency": "INR",
+      "category": "Books",
+      "subcategory": "Self-Help",
+      "brand": "Penguin Random House",
+      "author": "Héctor García & Francesc Miralles",
+      "format": "Paperback",
+      "in_stock": true,
+      "rating": 4.6,
+      "attributes": {
+        "pages": 208,
+        "language": "English",
+        "bestseller": true
+      }
+    }
+  ]
+}

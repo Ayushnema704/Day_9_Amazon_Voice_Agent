@@ -1,0 +1,46 @@
+[
+  {
+    "order_id": "ORD-8AC03572",
+    "timestamp": "2025-12-01T00:00:15.083409",
+    "date": "2025-12-01",
+    "time": "00:00:15",
+    "customer_name": "Alice",
+    "customer_email": "alice@example.com",
+    "delivery_address": "123 Olympus Road",
+    "status": "CONFIRMED",
+    "line_items": [
+      {
+        "product_id": "AMZN-ELEC-001",
+        "product_name": "Sony WH-1000XM5 Wireless Headphones",
+        "quantity": 1,
+        "unit_price": 29990,
+        "line_total": 29990
+      }
+    ],
+    "subtotal": 29990,
+    "currency": "INR",
+    "source": "Amazon Voice Shopping Assistant"
+  },
+  {
+    "order_id": "ORD-2DAD98E4",
+    "timestamp": "2025-12-01T00:03:12.517878",
+    "date": "2025-12-01",
+    "time": "00:03:12",
+    "customer_name": "Barton",
+    "customer_email": "onetwothree@gmail.com",
+    "delivery_address": "123 Olympus Road",
+    "status": "CONFIRMED",
+    "line_items": [
+      {
+        "product_id": "AMZN-ELEC-001",
+        "product_name": "Sony WH-1000XM5 Wireless Headphones",
+        "quantity": 1,
+        "unit_price": 29990,
+        "line_total": 29990
+      }
+    ],
+    "subtotal": 29990,
+    "currency": "INR",
+    "source": "Amazon Voice Shopping Assistant"
+  }
+]
